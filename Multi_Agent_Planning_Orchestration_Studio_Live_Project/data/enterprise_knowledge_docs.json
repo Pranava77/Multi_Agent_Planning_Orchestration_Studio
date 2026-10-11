@@ -1,0 +1,30 @@
+[
+  {
+    "id": "DOC-GOAL-2025",
+    "title": "FY2025 Strategic Financial & Growth Objectives",
+    "category": "Corporate Strategy",
+    "summary": "Targeted full-year revenue of $335M with minimum EBITDA margin of 35% and net retention rate > 120%.",
+    "content": "For Fiscal Year 2025, executive leadership targeted total revenue of $335M with minimum EBITDA margin of 35%. Actual realized revenue was $338.2M with full-year EBITDA of $131.8M (38.97% margin), surpassing strategic targets across all four quarters."
+  },
+  {
+    "id": "DOC-RISK-CHURN",
+    "title": "Enterprise Churn Mitigation Protocol & SLA Thresholds",
+    "category": "Customer Success",
+    "summary": "Accounts with churn risk score >= 0.70 require C-level executive sponsorship, dedicated Solutions Architecture reviews, and bi-weekly health checks.",
+    "content": "Accounts flagged with churn risk scores above 0.70 are categorized as Active-At-Risk. Immediate remediation requires: 1) Executive Sponsor assignment within 48 hours; 2) SRE latency remediation if risk is latency-related (Vanguard Media case); 3) Beta access to Edge Inference SDK for robotics/embedded clients (Alpha Robotics case); 4) Competitive displacement war-room (Pulse Health AI case)."
+  },
+  {
+    "id": "DOC-COMPL-AUDIT",
+    "title": "Financial Audit & Discrepancy Reconciliation Standards",
+    "category": "Audit & Compliance",
+    "summary": "Quarterly earnings representations must reconcile against verified ledger records within 0.1% tolerance. Unsubstantiated claims must be audited and flagged.",
+    "content": "All public investor relations briefings and executive quarterly reviews must be checked by the Critical Reviewer & Verifier Agent before external distribution. Any variance greater than $100,000 between claimed figures and SQLite transactional records must trigger an automated audit warning and replanning event."
+  },
+  {
+    "id": "DOC-SALES-TIERS",
+    "title": "Global Sales Incentive & Deal Qualification Matrix",
+    "category": "Go-To-Market",
+    "summary": "Enterprise deals exceeding $2M qualify for executive deal-desk approval and Tier-1 discount structuring.",
+    "content": "In FY2025, closed-won deals above $2.0M accounted for $13.45M in total bookings. Top performers include Marcus Vance (North America: $9.85M across 3 strategic accounts), Sonya Lindqvist (EMEA: $2.1M closed-won, $5.25M pipeline), and Kenji Sato (APAC: $2.95M closed-won)."
+  }
+]
